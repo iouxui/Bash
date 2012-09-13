@@ -1,0 +1,158 @@
+args.txt
+array.sh
+cecho.sh
+CheckUser.sh
+conditional.sh
+debug.sh
+files.txt
+file_test.sh
+fname.sh
+IFSnew.sh
+IFS.sh
+Linux.Shell.Scripting.Cookbook.pdf
+loop.sh
+math.sh
+nohup.out
+output.session
+password.sh
+printf.sh
+recursion.sh
+sleep.sh
+string.sh
+subshell.sh
+success_test.sh
+time.sh
+timing.log
+.
+..
+args.txt
+array.sh
+cecho.sh
+CheckUser.sh
+conditional.sh
+debug.sh
+files.txt
+file_test.sh
+fname.sh
+IFSnew.sh
+IFS.sh
+Linux.Shell.Scripting.Cookbook.pdf
+loop.sh
+math.sh
+nohup.out
+output.session
+password.sh
+printf.sh
+recursion.sh
+sleep.sh
+string.sh
+subshell.sh
+success_test.sh
+time.sh
+timing.log
+total 13424
+-rw------- 1 ranjan ranjan       48 Aug 24  2011 args.txt
+-rw------- 1 ranjan ranjan      417 Aug 24  2011 array.sh
+-rw------- 1 ranjan ranjan       60 Aug 25  2011 cecho.sh
+-rw------- 1 ranjan ranjan       90 Aug 14  2011 CheckUser.sh
+-rw------- 1 ranjan ranjan      543 Aug 20  2011 conditional.sh
+-rw------- 1 ranjan ranjan      109 Aug 19  2011 debug.sh
+-rw------- 1 ranjan ranjan      247 Aug 25  2011 files.txt
+-rw------- 1 ranjan ranjan     1159 Aug 20  2011 file_test.sh
+-rw------- 1 ranjan ranjan      151 Aug 19  2011 fname.sh
+-rw------- 1 ranjan ranjan      259 Aug 20  2011 IFSnew.sh
+-rw------- 1 ranjan ranjan      207 Aug 20  2011 IFS.sh
+-rw------- 1 ranjan ranjan 13627556 Aug  5  2011 Linux.Shell.Scripting.Cookbook.pdf
+-rwx--x--x 1 ranjan ranjan      497 Aug 20  2011 loop.sh
+-rw------- 1 ranjan ranjan      431 Aug 14  2011 math.sh
+-rw------- 1 ranjan ranjan      585 Jul 27 14:37 nohup.out
+-rw------- 1 ranjan ranjan    16771 Aug 20  2011 output.session
+-rw------- 1 ranjan ranjan      123 Aug 14  2011 password.sh
+-rw------- 1 ranjan ranjan      468 Aug 14  2011 printf.sh
+-rw------- 1 ranjan ranjan      101 Aug 24  2011 recursion.sh
+-rw------- 1 ranjan ranjan       86 Aug 19  2011 sleep.sh
+-rw------- 1 ranjan ranjan      642 Aug 20  2011 string.sh
+-rw------- 1 ranjan ranjan       65 Aug 19  2011 subshell.sh
+-rw------- 1 ranjan ranjan      163 Aug 19  2011 success_test.sh
+-rw------- 1 ranjan ranjan      171 Aug 19  2011 time.sh
+-rw------- 1 ranjan ranjan     1560 Aug 20  2011 timing.log
+Time taken to execute commands is 0 seconds.
+args.txt
+array.sh
+cecho.sh
+CheckUser.sh
+conditional.sh
+debug.sh
+files.txt
+file_test.sh
+fname.sh
+IFSnew.sh
+IFS.sh
+Linux.Shell.Scripting.Cookbook.pdf
+loop.sh
+math.sh
+nohup.out
+output.session
+password.sh
+printf.sh
+recursion.sh
+sleep.sh
+string.sh
+subshell.sh
+success_test.sh
+time.sh
+timing.log
+.
+..
+args.txt
+array.sh
+cecho.sh
+CheckUser.sh
+conditional.sh
+debug.sh
+files.txt
+file_test.sh
+fname.sh
+IFSnew.sh
+IFS.sh
+Linux.Shell.Scripting.Cookbook.pdf
+loop.sh
+math.sh
+nohup.out
+output.session
+password.sh
+printf.sh
+recursion.sh
+sleep.sh
+string.sh
+subshell.sh
+success_test.sh
+time.sh
+timing.log
+total 13424
+-rw------- 1 ranjan ranjan       48 Aug 24  2011 args.txt
+-rw------- 1 ranjan ranjan      417 Aug 24  2011 array.sh
+-rw------- 1 ranjan ranjan       60 Aug 25  2011 cecho.sh
+-rw------- 1 ranjan ranjan       90 Aug 14  2011 CheckUser.sh
+-rw------- 1 ranjan ranjan      543 Aug 20  2011 conditional.sh
+-rw------- 1 ranjan ranjan      109 Aug 19  2011 debug.sh
+-rw------- 1 ranjan ranjan      247 Aug 25  2011 files.txt
+-rw------- 1 ranjan ranjan     1159 Aug 20  2011 file_test.sh
+-rw------- 1 ranjan ranjan      151 Aug 19  2011 fname.sh
+-rw------- 1 ranjan ranjan      259 Aug 20  2011 IFSnew.sh
+-rw------- 1 ranjan ranjan      207 Aug 20  2011 IFS.sh
+-rw------- 1 ranjan ranjan 13627556 Aug  5  2011 Linux.Shell.Scripting.Cookbook.pdf
+-rwx--x--x 1 ranjan ranjan      497 Aug 20  2011 loop.sh
+-rw------- 1 ranjan ranjan      431 Aug 14  2011 math.sh
+-rw------- 1 ranjan ranjan     2742 Jul 27 14:38 nohup.out
+-rw------- 1 ranjan ranjan    16771 Aug 20  2011 output.session
+-rw------- 1 ranjan ranjan      123 Aug 14  2011 password.sh
+-rw------- 1 ranjan ranjan      468 Aug 14  2011 printf.sh
+-rw------- 1 ranjan ranjan      101 Aug 24  2011 recursion.sh
+-rw------- 1 ranjan ranjan       86 Aug 19  2011 sleep.sh
+-rw------- 1 ranjan ranjan      642 Aug 20  2011 string.sh
+-rw------- 1 ranjan ranjan       65 Aug 19  2011 subshell.sh
+-rw------- 1 ranjan ranjan      163 Aug 19  2011 success_test.sh
+-rw------- 1 ranjan ranjan      171 Aug 19  2011 time.sh
+-rw------- 1 ranjan ranjan     1560 Aug 20  2011 timing.log
+Time taken to execute commands is 0 seconds.
